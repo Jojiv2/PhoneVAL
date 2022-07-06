@@ -8,7 +8,7 @@ PhoneVAL - Bulk Phone Number Validator
 
 # Usage
 
-> Download the tool
+> Download the tool<br>
 > Run it
 
 ```
